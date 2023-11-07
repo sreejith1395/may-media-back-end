@@ -1,0 +1,110 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "caption": "Story of Jini Joseph ",
+      "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png ",
+      "url": "https://www.youtube.com/embed/y4ILc0JX50c "
+    },
+    {
+      "id": "4",
+      "caption": "FULL CHICKEN ROAST ",
+      "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+    }
+  ],
+  "category": [
+    {
+      "id": "2",
+      "categoryName": "informative",
+      "allvideos": [
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        },
+        {
+          "id": "4",
+          "caption": "FULL CHICKEN ROAST ",
+          "thumbnail": " https://luminartechnolabbucket.s3.ap-south-1.amazonaws.com/c20701d9-50b0-426e-bb32-88034eb9de50-Placement%20photo.png",
+          "url": "https://www.youtube.com/embed/VAdGW7QDJiU"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Story of Jini Joseph",
+      "url": "https://www.youtube.com/embed/y4ILc0JX50c ",
+      "date": "11-02-2023"
+    },
+    {
+      "id": "d16bcea1-c658-49d7-aa07-600a5aa74197",
+      "cardName": "Story of Jini Joseph ",
+      "url": "https://www.youtube.com/embed/y4ILc0JX50c ",
+      "date": "2023-11-03T05:48:07.506Z"
+    },
+    {
+      "id": "8ea3e45e-61e2-4c0b-8035-5d143c128fbd",
+      "cardName": "Story of Jini Joseph ",
+      "url": "https://www.youtube.com/embed/y4ILc0JX50c ",
+      "date": "2023-11-06T05:49:18.091Z"
+    },
+    {
+      "id": "91bbb023-6b11-492f-b707-83f61a75ae0d",
+      "cardName": "FULL CHICKEN ROAST ",
+      "url": "https://www.youtube.com/embed/VAdGW7QDJiU",
+      "date": "2023-11-07T05:14:17.172Z"
+    }
+  ]
+}
